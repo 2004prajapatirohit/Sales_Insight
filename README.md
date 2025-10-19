@@ -19,6 +19,8 @@ The dashboard includes three main pages:
 
 ## Key Insights
 
+<img width="1062" height="675" alt="Key_Insight" src="https://github.com/user-attachments/assets/e029f54e-b209-4029-be02-db4af06e053b" />
+
 The **Key Insights** page gives a quick summary of overall business performance through key metrics and visual comparisons.  
 It helps in understanding the bigger picture of sales and profitability at a glance.
 
@@ -42,6 +44,8 @@ This section gives a **high-level business snapshot**, helping to identify which
 ---
 ## Performance Insight
 
+<img width="1062" height="668" alt="Performance_Insight" src="https://github.com/user-attachments/assets/e640a32b-e213-4508-8308-4a22d2877b70" />
+
 The **Performance Insight** page focuses on sales and revenue trends over time.  
 It highlights how different markets and customers are contributing to the overall business growth.
 
@@ -61,6 +65,8 @@ It highlights how different markets and customers are contributing to the overal
 The goal of this section is to give a quick overview of **how the business is performing** across different regions and customers.
 
 ## Profit Analysis
+
+<img width="1062" height="670" alt="Profit_Analysis" src="https://github.com/user-attachments/assets/697cc345-eaec-4b70-8e82-3ef40f94cafd" />
 
 The **Profit Analysis** page provides detailed insights into revenue contribution, profit margin, and performance across markets.
 
